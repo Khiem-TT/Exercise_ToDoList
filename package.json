@@ -1,0 +1,12 @@
+{
+  "name": "Exercise_ToDoList",
+  "version": "1.0.0",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "qs": "^6.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  }
+}
